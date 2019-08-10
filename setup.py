@@ -1,1 +1,1 @@
-print "Heroku"
+print("Heroku")
